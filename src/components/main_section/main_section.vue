@@ -28,7 +28,6 @@ export default {
         padding: 157px 222px 0 204px
         display: flex
         justify-content: space-between
-        background-color: yellow
         .main_intro_left
             .main_header
                 font-family: 'Outfit'

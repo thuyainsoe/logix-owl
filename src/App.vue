@@ -2,10 +2,12 @@
   <Navigation_menu />
   <Main_section />
   <Background_ellipse/>
+  <Course_section/>
 </template>
 
 <script>
 import Background_ellipse from './components/background_ellipse/background_ellipse.vue';
+import Course_section from './components/course_section/course_section.vue';
 import Main_section from './components/main_section/main_section.vue';
 import Navigation_menu from './components/navigation_bar/navigation_menu.vue';
 
@@ -14,7 +16,8 @@ export default {
   components:{
     Background_ellipse,
     Navigation_menu,
-    Main_section
+    Main_section,
+    Course_section
 }
 }
 </script>
