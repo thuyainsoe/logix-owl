@@ -20,20 +20,20 @@ export default {
 </script>
 
 <style lang="sass" scoped>
-    .top_ellipse
-        position: absolute
-        left: -24px
-        top: 0
-    .right_ellipse
-        position: absolute
-        top: 130px
-        height: 1059px
-        right: 0 
-    .left_ellipse
-        position: absolute
-        top: 1192px
-    .right1_ellipse
-        position: absolute
-        right: 0
-        top: 1987px
+  .top_ellipse
+      position: absolute
+      left: -24px
+      top: 0
+  .right_ellipse
+      position: absolute
+      top: 130px
+      height: 1059px
+      right: 0 
+  .left_ellipse
+      position: absolute
+      top: 1192px
+  .right1_ellipse
+      position: absolute
+      right: 0
+      top: 1987px
 </style>

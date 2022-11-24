@@ -37,7 +37,7 @@ export default {
         .courses_cards
             display: flex
             gap: 12px
-            justify-content: space-between
+            justify-content: space-around
         .to_all_courses
             display: flex
             justify-content: center

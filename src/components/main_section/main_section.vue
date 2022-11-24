@@ -29,12 +29,13 @@ export default {
         display: flex
         justify-content: space-between
         .main_intro_left
+            color: #fff
             .main_header
                 font-family: 'Outfit'
                 font-style: normal
                 font-weight: 700
                 font-size: 70px
-                line-height: 115px
+                line-height: 99px
                 text-transform: capitalize
             .sub_intro
                 margin-top: 30px
