@@ -50,7 +50,7 @@ export default {
                 align-items: center
                 margin-top: 40px
                 background-color: #005EF2
-                padding: 23px 48px
+                padding: 23px 43px
                 width: 229px
                 height: 71px
                 border-radius: 100px
